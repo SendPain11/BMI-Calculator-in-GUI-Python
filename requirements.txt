@@ -1,0 +1,41 @@
+# BMI Calculator Dependencies
+
+# ==========================================
+# Version 2 (Standard Tkinter)
+# ==========================================
+# No additional dependencies required!
+# Tkinter comes built-in with Python
+
+# ==========================================
+# Version 3 (CustomTkinter - Modern UI)
+# ==========================================
+customtkinter==5.2.1
+
+# ==========================================
+# Optional: For Development & Testing
+# ==========================================
+# Uncomment below if you want to add testing
+
+# pytest==7.4.3              # For unit testing
+# pytest-cov==4.1.0          # For code coverage
+# pillow==10.1.0             # For custom images/icons
+# pyinstaller==6.3.0         # For creating .exe file
+
+# ==========================================
+# Installation Instructions
+# ==========================================
+# 
+# For Version 2 (Recommended):
+#   No installation needed! Just run:
+#   python bmi_calculator_v2.py
+#
+# For Version 3 (CustomTkinter):
+#   pip install -r requirements.txt
+#   OR
+#   pip install customtkinter
+#
+# To create standalone .exe (optional):
+#   pip install pyinstaller
+#   pyinstaller --onefile --windowed bmi_calculator_v2.py
+#
+# ==========================================
