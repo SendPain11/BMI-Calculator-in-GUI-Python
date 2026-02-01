@@ -3,7 +3,7 @@ import tkinter as tk
 
 def calculate():
     weight = float(weigh_ent.get())
-    height = float(weigh_ent.get())
+    height = float(heigh_ent.get())
 
     bmi = weight / (height ** 2)
     bmi = round(bmi, 1)
@@ -58,5 +58,6 @@ result_lbl = tk.Label(textvariable=result_var,
 )
 
 result_lbl.grid(columnspan=3, row=3)
+
 
 root.mainloop()
