@@ -33,7 +33,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [2.0.0] - 2026-02-01 - Enhanced Version
+## [2.0.0] - 2025-12-08 - Enhanced Version
 
 ### 🐛 Fixed
 - **CRITICAL BUG:** Fixed height input reading from wrong entry field
@@ -77,7 +77,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [1.0.0] - 2026-01-XX - Initial Release
+## [1.0.0] - 2023-09-18 - Initial Release
 
 ### Features
 - Basic BMI calculation
