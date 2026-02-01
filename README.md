@@ -337,5 +337,4 @@ If you found this BMI Calculator helpful, please give it a ⭐ on GitHub!
 ---
 
 **Last Updated:** February 2026  
-**Version:** 3.0  
-**Status:** ✅ Active Development
+**Version:** 3.0
